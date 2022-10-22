@@ -15,21 +15,21 @@ ___
 <!-- UL -->
 
 **Contacto:**
-* [Linkedin](https://www.linkedin.com/in/maximiliano-fagnano-5808ba120/) Maximiliano Fagnano
+    🔗: [Linkedin](https://www.linkedin.com/in/maximiliano-fagnano-5808ba120/) Maximiliano Fagnano
 
-* 11-5564-4747
-* fagnano.mg@gmail.com
+    :iphone: 11-5564-4747
+    :email: fagnano.mg@gmail.com
 
 ___
 
 <!-- UL -->
 **Educación**
     
-    -Software Tester QA
+    :pushpin: Software Tester QA
         Udemy Mayo,2022
-    -Introducción al Testing
+    :pushpin: Introducción al Testing
         ISEL Junio, 2022
-    -Professional Testing Master
+    :pushpin: Professional Testing Master
          Centro de e-Learning UTN FRB Septiembre, 2022
 
 ___
@@ -37,5 +37,5 @@ ___
 <!-- UL -->
 **Experiencia Laboral**
     
-    -Servicio de atención al cliente 
+     :black_circle: Servicio de atención al cliente 
         -Mera Solutions: Diciembre 2016 - Marzo 2017
