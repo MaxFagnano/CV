@@ -15,9 +15,10 @@ ___
 <!-- UL -->
 
 **Contacto:**
-    🔗: [Linkedin](https://www.linkedin.com/in/maximiliano-fagnano-5808ba120/) Maximiliano Fagnano
+    
+    🔗 [Linkedin](https://www.linkedin.com/in/maximiliano-fagnano-5808ba120/) Maximiliano Fagnano
 
-    :iphone: 11-5564-4747
+    :iphone:  11-5564-4747
     :email: fagnano.mg@gmail.com
 
 ___
