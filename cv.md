@@ -27,7 +27,7 @@ ___
 📜 Professional Testing Master : Centro de e-Learning UTN/FRB. Septiembre,2022 
 
 ---
-**Experiencia Laboral**
+**Experiencia Laboral:**
 
 📌 Servicio de atención al cliente, Mera Solutions: Diciembre 2016 - Marzo 2017
 
