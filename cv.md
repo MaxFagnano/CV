@@ -6,7 +6,7 @@ ___
 
   Soy Tester QA *trainee* proactivo, extrovertido, responsable e indepediente, dispuesto a cumplir con los objetivos establecidos para lograr con éxito los proyectos y nuevos desafíos. 
   Disfruto trabajando en equipo, aportando ideas y soluciones, con una atenta escucha activa y una correcta comunicación se llevan a cabos los objetivos. 
-  Poseeo de formar parte de una empresa en la cual aplique todos mis conocimientos y me brinden la oportunidad de poder desarrollar el objetivo de crecer laboralmente adquiriendo mi primer experiencia IT.
+  Es mi deseo el de formar parte de una empresa en la cual aplique todos mis conocimientos y me brinden la oportunidad de poder desarrollar el objetivo de crecer laboralmente adquiriendo mi primer experiencia IT.
 
 ___
 **Contacto:**
