@@ -29,4 +29,4 @@ ___
 ---
 **Experiencia Laboral**
 
-Servicio de atención al cliente, Mera Solutions: Diciembre 2016 - Marzo 2017
+    Servicio de atención al cliente, Mera Solutions: Diciembre 2016 - Marzo 2017
