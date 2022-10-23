@@ -27,25 +27,6 @@ ___
     Professional Testing Master : Centro de e-Learning UTN/FRB. Septiembre,2022 
 
 ---
-
-**Contacto:**
-
-[Linkedin] (https://www.linkedin.com/in/maximiliano-fagnano-5808ba120/) Maximiliano Fagnano
-
- 11-5564-4747
-
-fagnano.mg@gmail.com
-
----
-**Educación**
-    
-Software Tester QA: Udemy - Mayo,2022
-
-Introducción al Testing: ISEL - Junio, 2022
-
-Professional Testing Master: Centro de e-Learning UTN/FRB - Septiembre, 2022
-
----
 **Experiencia Laboral**
 
 Servicio de atención al cliente, Mera Solutions: Diciembre 2016 - Marzo 2017
