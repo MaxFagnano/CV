@@ -11,11 +11,11 @@ ___
 ___
 **Contacto:**
 
-[Linkedin](https://www.linkedin.com/in/maximiliano-fagnano-5808ba120/) Maximiliano Fagnano
+🔗 [Linkedin](https://www.linkedin.com/in/maximiliano-fagnano-5808ba120/) Maximiliano Fagnano
 
-11-5564-4747
+📞11-5564-4747
 
-fagnano.mg@gmail.com
+📧fagnano.mg@gmail.com
 
 ---
 **Educación:**
