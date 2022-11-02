@@ -32,3 +32,21 @@ ___
 📌 Servicio de atención al cliente, Mera Solutions: Diciembre 2016 - Marzo 2017
 
 ---
+**Idiomas:**
+
+📍 Inglés:  Escrito y oral nivel intermedio.
+
+---
+**Herramientas:**
+
+🔧 Manejo básico de MySQL
+
+🔧 GIT 
+
+🔧 Trello
+
+🔧 Jyra
+
+🔧 KatalonRecorder
+
+---
